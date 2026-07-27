@@ -1,0 +1,14 @@
+D:\DNC\AreaOfSquere\bin\Debug\net10.0\AreaOfSquere.exe
+D:\DNC\AreaOfSquere\bin\Debug\net10.0\AreaOfSquere.deps.json
+D:\DNC\AreaOfSquere\bin\Debug\net10.0\AreaOfSquere.runtimeconfig.json
+D:\DNC\AreaOfSquere\bin\Debug\net10.0\AreaOfSquere.dll
+D:\DNC\AreaOfSquere\bin\Debug\net10.0\AreaOfSquere.pdb
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.AssemblyInfoInputs.cache
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.AssemblyInfo.cs
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.csproj.CoreCompileInputs.cache
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.dll
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\refint\AreaOfSquere.dll
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.pdb
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\AreaOfSquere.genruntimeconfig.cache
+D:\DNC\AreaOfSquere\obj\Debug\net10.0\ref\AreaOfSquere.dll

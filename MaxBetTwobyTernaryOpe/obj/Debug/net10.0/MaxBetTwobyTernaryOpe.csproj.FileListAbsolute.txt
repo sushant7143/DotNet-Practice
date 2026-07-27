@@ -1,0 +1,14 @@
+D:\DNC\MaxBetTwobyTernaryOpe\bin\Debug\net10.0\MaxBetTwobyTernaryOpe.exe
+D:\DNC\MaxBetTwobyTernaryOpe\bin\Debug\net10.0\MaxBetTwobyTernaryOpe.deps.json
+D:\DNC\MaxBetTwobyTernaryOpe\bin\Debug\net10.0\MaxBetTwobyTernaryOpe.runtimeconfig.json
+D:\DNC\MaxBetTwobyTernaryOpe\bin\Debug\net10.0\MaxBetTwobyTernaryOpe.dll
+D:\DNC\MaxBetTwobyTernaryOpe\bin\Debug\net10.0\MaxBetTwobyTernaryOpe.pdb
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.AssemblyInfoInputs.cache
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.AssemblyInfo.cs
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.csproj.CoreCompileInputs.cache
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.dll
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\refint\MaxBetTwobyTernaryOpe.dll
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.pdb
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\MaxBetTwobyTernaryOpe.genruntimeconfig.cache
+D:\DNC\MaxBetTwobyTernaryOpe\obj\Debug\net10.0\ref\MaxBetTwobyTernaryOpe.dll
