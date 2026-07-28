@@ -1,0 +1,14 @@
+D:\DNC\AreaOfTriangle\bin\Debug\net10.0\AreaOfTriangle.exe
+D:\DNC\AreaOfTriangle\bin\Debug\net10.0\AreaOfTriangle.deps.json
+D:\DNC\AreaOfTriangle\bin\Debug\net10.0\AreaOfTriangle.runtimeconfig.json
+D:\DNC\AreaOfTriangle\bin\Debug\net10.0\AreaOfTriangle.dll
+D:\DNC\AreaOfTriangle\bin\Debug\net10.0\AreaOfTriangle.pdb
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.AssemblyInfoInputs.cache
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.AssemblyInfo.cs
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.dll
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\refint\AreaOfTriangle.dll
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.pdb
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\AreaOfTriangle.genruntimeconfig.cache
+D:\DNC\AreaOfTriangle\obj\Debug\net10.0\ref\AreaOfTriangle.dll

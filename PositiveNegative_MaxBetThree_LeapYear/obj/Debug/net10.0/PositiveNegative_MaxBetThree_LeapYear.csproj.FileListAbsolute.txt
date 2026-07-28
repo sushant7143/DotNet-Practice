@@ -1,0 +1,14 @@
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\bin\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.exe
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\bin\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.deps.json
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\bin\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.runtimeconfig.json
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\bin\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.dll
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\bin\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.pdb
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.AssemblyInfoInputs.cache
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.AssemblyInfo.cs
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.csproj.CoreCompileInputs.cache
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.dll
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\refint\PositiveNegative_MaxBetThree_LeapYear.dll
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.pdb
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\PositiveNegative_MaxBetThree_LeapYear.genruntimeconfig.cache
+D:\DNC\PositiveNegative_MaxBetThree_LeapYear\obj\Debug\net10.0\ref\PositiveNegative_MaxBetThree_LeapYear.dll

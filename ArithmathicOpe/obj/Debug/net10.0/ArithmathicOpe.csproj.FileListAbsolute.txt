@@ -1,0 +1,14 @@
+D:\DNC\ArithmathicOpe\bin\Debug\net10.0\ArithmathicOpe.exe
+D:\DNC\ArithmathicOpe\bin\Debug\net10.0\ArithmathicOpe.deps.json
+D:\DNC\ArithmathicOpe\bin\Debug\net10.0\ArithmathicOpe.runtimeconfig.json
+D:\DNC\ArithmathicOpe\bin\Debug\net10.0\ArithmathicOpe.dll
+D:\DNC\ArithmathicOpe\bin\Debug\net10.0\ArithmathicOpe.pdb
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.AssemblyInfoInputs.cache
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.AssemblyInfo.cs
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.csproj.CoreCompileInputs.cache
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.dll
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\refint\ArithmathicOpe.dll
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.pdb
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ArithmathicOpe.genruntimeconfig.cache
+D:\DNC\ArithmathicOpe\obj\Debug\net10.0\ref\ArithmathicOpe.dll

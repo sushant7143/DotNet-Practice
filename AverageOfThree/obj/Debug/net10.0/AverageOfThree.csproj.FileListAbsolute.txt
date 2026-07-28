@@ -1,0 +1,14 @@
+D:\DNC\AverageOfThree\bin\Debug\net10.0\AverageOfThree.exe
+D:\DNC\AverageOfThree\bin\Debug\net10.0\AverageOfThree.deps.json
+D:\DNC\AverageOfThree\bin\Debug\net10.0\AverageOfThree.runtimeconfig.json
+D:\DNC\AverageOfThree\bin\Debug\net10.0\AverageOfThree.dll
+D:\DNC\AverageOfThree\bin\Debug\net10.0\AverageOfThree.pdb
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.AssemblyInfoInputs.cache
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.AssemblyInfo.cs
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.csproj.CoreCompileInputs.cache
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.dll
+D:\DNC\AverageOfThree\obj\Debug\net10.0\refint\AverageOfThree.dll
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.pdb
+D:\DNC\AverageOfThree\obj\Debug\net10.0\AverageOfThree.genruntimeconfig.cache
+D:\DNC\AverageOfThree\obj\Debug\net10.0\ref\AverageOfThree.dll

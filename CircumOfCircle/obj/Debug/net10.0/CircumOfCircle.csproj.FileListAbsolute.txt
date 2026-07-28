@@ -1,0 +1,14 @@
+D:\DNC\CircumOfCircle\bin\Debug\net10.0\CircumOfCircle.exe
+D:\DNC\CircumOfCircle\bin\Debug\net10.0\CircumOfCircle.deps.json
+D:\DNC\CircumOfCircle\bin\Debug\net10.0\CircumOfCircle.runtimeconfig.json
+D:\DNC\CircumOfCircle\bin\Debug\net10.0\CircumOfCircle.dll
+D:\DNC\CircumOfCircle\bin\Debug\net10.0\CircumOfCircle.pdb
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.AssemblyInfoInputs.cache
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.AssemblyInfo.cs
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.csproj.CoreCompileInputs.cache
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.dll
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\refint\CircumOfCircle.dll
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.pdb
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\CircumOfCircle.genruntimeconfig.cache
+D:\DNC\CircumOfCircle\obj\Debug\net10.0\ref\CircumOfCircle.dll

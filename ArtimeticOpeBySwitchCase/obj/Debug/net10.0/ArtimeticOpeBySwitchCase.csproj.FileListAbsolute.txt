@@ -1,0 +1,14 @@
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.AssemblyInfoInputs.cache
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.AssemblyInfo.cs
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.csproj.CoreCompileInputs.cache
+D:\DNC\ArtimeticOpeBySwitchCase\bin\Debug\net10.0\ArtimeticOpeBySwitchCase.exe
+D:\DNC\ArtimeticOpeBySwitchCase\bin\Debug\net10.0\ArtimeticOpeBySwitchCase.deps.json
+D:\DNC\ArtimeticOpeBySwitchCase\bin\Debug\net10.0\ArtimeticOpeBySwitchCase.runtimeconfig.json
+D:\DNC\ArtimeticOpeBySwitchCase\bin\Debug\net10.0\ArtimeticOpeBySwitchCase.dll
+D:\DNC\ArtimeticOpeBySwitchCase\bin\Debug\net10.0\ArtimeticOpeBySwitchCase.pdb
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.dll
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\refint\ArtimeticOpeBySwitchCase.dll
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.pdb
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ArtimeticOpeBySwitchCase.genruntimeconfig.cache
+D:\DNC\ArtimeticOpeBySwitchCase\obj\Debug\net10.0\ref\ArtimeticOpeBySwitchCase.dll
